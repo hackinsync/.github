@@ -36,6 +36,7 @@ Hack On The Kitchen Sink is a vibrant and inclusive GitHub organization that bri
 
 ## Join Us
 [![Watch this guide video](https://cdn.loom.com/sessions/thumbnails/6c2e6af1eefc44e3aafe4c94e91bebf2-with-play.gif)](https://www.loom.com/embed/6c2e6af1eefc44e3aafe4c94e91bebf2?sid=2a6fa393-9e5f-475e-b534-f079aac7349a)
+<br>
 Visit our [GitHub organization page](https://jedshock.com/) to become a member and explore the endless possibilities of collaboration.
 
 ### Contact Information
