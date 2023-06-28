@@ -35,7 +35,7 @@ Hack On The Kitchen Sink is a vibrant and inclusive GitHub organization that bri
 - Non-Refundable: Subscription fees contribute to sustaining the organization, supporting projects, and providing necessary resources. Please carefully evaluate your commitment before subscribing.
 
 ## Join Us
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/6c2e6af1eefc44e3aafe4c94e91bebf2?sid=2a6fa393-9e5f-475e-b534-f079aac7349a" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+[![Watch this guide video](https://cdn.loom.com/sessions/thumbnails/6c2e6af1eefc44e3aafe4c94e91bebf2-with-play.gif)](https://www.loom.com/embed/6c2e6af1eefc44e3aafe4c94e91bebf2?sid=2a6fa393-9e5f-475e-b534-f079aac7349a)
 Visit our [GitHub organization page](https://jedshock.com/) to become a member and explore the endless possibilities of collaboration.
 
 ### Contact Information
