@@ -21,7 +21,9 @@ Hack On The Kitchen Sink is a vibrant and inclusive GitHub organization that bri
   - **Annual Subscription**: Commit to a full year of membership for $20 (₦755/$1).
 
 ## Collaboration and Governance
-
+#### CBTWeb3 (Seed Project) 🎥
+[![CBTWeb3 (Seed Project)](https://cdn.loom.com/sessions/thumbnails/73509ac9230c4a3f8b09d1a52b41dd9d-with-play.gif)](https://www.loom.com/embed/73509ac9230c4a3f8b09d1a52b41dd9d?sid=6c1bf5ea-b197-4586-b07d-9fb7e067f3b1)
+<br>
 - Collaborative Projects: When our membership reaches 3000, we establish an agreed governance model that allows all members to actively collaborate on the seed project, <a href="https://jedshock.com" target="_blank"><i>CBTWeb3</i><a/>, and future initiatives.
 - Infrastructural Costs: For every idea or project proposal, the founders or collaborators are responsible for providing minimal infrastructural costs to aid development. We encourage shared efforts and the collective ownership of projects.
 
@@ -35,6 +37,7 @@ Hack On The Kitchen Sink is a vibrant and inclusive GitHub organization that bri
 - Non-Refundable: Subscription fees contribute to sustaining the organization, supporting projects, and providing necessary resources. Please carefully evaluate your commitment before subscribing.
 
 ## Join Us
+#### Watch this video guide 🎥
 [![Watch this guide video](https://cdn.loom.com/sessions/thumbnails/6c2e6af1eefc44e3aafe4c94e91bebf2-with-play.gif)](https://www.loom.com/embed/6c2e6af1eefc44e3aafe4c94e91bebf2?sid=2a6fa393-9e5f-475e-b534-f079aac7349a)
 <br>
 Visit our [GitHub organization page](https://jedshock.com/) to become a member and explore the endless possibilities of collaboration.
