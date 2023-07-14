@@ -1,6 +1,6 @@
 # Hack On The Kitchen Sink
 
-<img src="https://raw.githubusercontent.com/hackinsync/.github/main/Symbol.png" style="text-align: center; display: block; margin: auto">
+<img src="https://raw.githubusercontent.com/hackinsync/.github/main/Symbol.jpg" style="text-align: center; display: block; margin: auto">
 
 > <i>For all the calories</i><br>
 > <i>That were supposed to adorn my face,</i><br>
