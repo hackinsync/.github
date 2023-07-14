@@ -1,6 +1,7 @@
 # Hack On The Kitchen Sink
 
 <img src="https://raw.githubusercontent.com/hackinsync/.github/main/Symbol.jpg" style="text-align: center; display: block; margin: auto">
+<figcaption style="display: flex; justify-content: center; text-align: center; width: 100%;">They will be five people if they find one?</figcaption>
 
 > <i>For all the calories</i><br>
 > <i>That were supposed to adorn my face,</i><br>
