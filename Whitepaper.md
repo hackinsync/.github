@@ -1,5 +1,4 @@
 # Hack On The Kitchen Sink
-
 <img src="https://raw.githubusercontent.com/hackinsync/.github/main/Symbol.jpg" style="text-align: center; display: block; margin: auto">
 <figcaption style="display: flex; justify-content: center; text-align: center; width: 100%;">They will be five people if they find one?</figcaption>
 
@@ -8,6 +7,8 @@
 > <i>Thus, went with the torment of the grind.</i><br>
 >
 > — Jedidiah Gabriel
+## Disclaimer ⚠
+Read <a href="https://twitter.com/jedshock/" target="_blank">@jedshock</a> pinned thread to get the full gist before proceeding, thank you 🙏🏽 
 
 ## Introduction
 
