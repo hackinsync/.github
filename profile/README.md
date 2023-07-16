@@ -1,6 +1,8 @@
 # Hack On The Kitchen Sink
+<p align="center">
 <img src="https://raw.githubusercontent.com/hackinsync/.github/main/Symbol.jpg" style="text-align: center; display: block; margin: auto">
-<figcaption style="display: flex; justify-content: center; text-align: center; width: 100%;">They will be five people if they find one?</figcaption>
+<p>
+<p align="center">They will be five people if they find one?</p>
 
 > <i>For all the calories</i><br>
 > <i>That were supposed to adorn my face,</i><br>
@@ -12,7 +14,7 @@ Read <a href="https://twitter.com/jedshock/" target="_blank">@jedshock</a> pinne
 
 ## Introduction
 
-Hack On The Kitchen Sink in short words—it's a bootcamp-ish GitHub organization for arriviste/seeking-spark-through-synergy builders, developers, product designers, or anyone who sees potentiality in excelling here, seeking to learn/earn by collaborating in meaningful projects (not a damn weather app 😅) by leveraging the concept of <a href="https://www.naphill.org/focus-instructors/mastermind/" target="_blank">Napoleon Hill's Mastermind</a> through the collaborative building, marketing, and establishing a collective decentralized governance model on how shit should be done, a reward supply-chain through tokenization (equity/share(s), profit, NFT, etc.) in proportion to a member's effort & presence with dedication and commitment on a particular project/collective projects. Notwithstanding, every member has a default stake in each collective project based on the role they play (founder, affiliate marketer, developer, web3 developer, product designer, technical writer, etc.), and if granted accessibility to a project/repo. 
+Hack On The Kitchen Sink in short words—it's a bootcamp-ish GitHub organization for project-based learners, arriviste, and seeking-spark-through-synergy builders, developers, product designers, or anyone who sees potentiality in excelling here, seeking to learn/earn by collaborating in meaningful projects (not a damn weather app 😅) by leveraging the concept of <a href="https://www.naphill.org/focus-instructors/mastermind/" target="_blank">Napoleon Hill's Mastermind</a> through the collaborative building, marketing, and establishing a collective decentralized governance model on how shit should be done, a reward supply-chain through tokenization (equity/share(s), profit, NFT, etc.) in proportion to a member's effort & presence with dedication and commitment on a particular project/collective projects. Notwithstanding, every member has a default stake in each collective project based on the role they play (founder, affiliate marketer, developer, web3 developer, product designer, technical writer, etc.), and if granted accessibility to a project/repo. 
 
 ## Membership
 
