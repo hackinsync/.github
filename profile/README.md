@@ -30,5 +30,5 @@ If you got here, you're early. Look around.
 ## Contact
 
 - Website: [jedshock.com](https://jedshock.com)
-- Email: [hackinsync@jedshock.com](mailto:jedidiah@jedshock.com)
-- Social: [Twitter](https://twitter.com/hackinsync) · [LinkedIn](https://linkedin.com/company/hackinsync)
+- Email: [jedidiah@jedshock.com](mailto:jedidiah@jedshock.com)
+- Social: [Twitter](https://twitter.com/hackinsync) · [LinkedIn](https://linkedin.com/company/wesellinghq)
