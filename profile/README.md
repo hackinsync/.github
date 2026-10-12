@@ -1,7 +1,7 @@
 # Hack On The Kitchen Sink
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/135972697?s=400&u=e14969fbbd26382f69f0be425c234e846b3bd8b8&v=4" alt="Isz design" width="720">
+  <img src="https://avatars.githubusercontent.com/u/135972697?s=400&u=e14969fbbd26382f69f0be425c234e846b3bd8b8&v=4" alt="Isz design" width="500">
 </p>
 
 <p align="center"><i>Listen to <a href="https://genius.com/Twenty-one-pilots-kitchen-sink-lyrics" target="_blank">Kitchen Sink</a> 🎧</i></p>
